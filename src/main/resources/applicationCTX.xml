@@ -28,6 +28,15 @@
 		<property name="height">
 			<value>180</value>
 		</property>
+		<property name="hobbys">
+			<list>
+				<value>스포츠</value>
+				<value>자전거</value>
+				<value>영화감상</value>
+			</list>
+		</property>
+		
+		
 		<property name="bmiCal">
 			<ref bean="bmiCal" />
 		</property>
